@@ -1,0 +1,12 @@
+{
+  "driver": "sqlite",
+  "hasSrc": true,
+  "provider": "better-sqlite3",
+  "packages": [
+    "drizzle",
+    "trpc",
+    "next-auth",
+    "shadcn-ui"
+  ],
+  "preferredPackageManager": "pnpm"
+}
